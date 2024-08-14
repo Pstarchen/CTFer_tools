@@ -14,5 +14,5 @@
 ![](https://img.shields.io/badge/%E7%9B%BC%E6%98%9F%E8%BE%B0-StarChen-green)
 
 
-[下载软件](https://gitee.com/starchen520/CTFer_tools/releases/download/1.0.3/CTFer_tools.zip)
+[下载软件](https://gitee.com/starchen520/CTFer_tools/releases/download/1.0.4/CTFer_tools.zip)
 [开始阅读](?id=CTFer_tools)
